@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="t3s_thermal_ros_wrapper" 
+    type="t3s_thermal_ros_wrapper" 
+    name="my_thermal_cam" />
+
+</launch>
